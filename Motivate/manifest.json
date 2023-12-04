@@ -2,8 +2,8 @@
     "name": "Quotes to keep you going",
     "version": "1.0",
     "manifest_version": 3,
-    "description": "Extension to convert currencies quickly",
-    "browser_action": {
+    "description": "Extension to provide motivational quotes for users",
+    "action": {
         "default_icon": "icon.png",
         "default_popup": "index.html"
     }
